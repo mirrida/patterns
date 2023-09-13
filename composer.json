@@ -1,0 +1,19 @@
+{
+    "name": "mirrida/patterns",
+    "description": "Patterns interfaces and default implementations.",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "Mirrida\\Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Prokopenko",
+            "email": "radynje@gmail.com"
+        }
+    ],
+    "require": {}
+}
